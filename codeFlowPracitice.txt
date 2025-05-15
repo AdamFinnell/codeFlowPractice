@@ -19,10 +19,10 @@ a = a * b; // line 5
 b = b + a; // line 6
 
 // Predict the value of a...
-// ... after line 3 executes?
-// ... after line 4 executes?
-// ... after line 5 executes?
-// ... after line 6 executes?
+// ... after line 3 executes?   a = 9
+// ... after line 4 executes?   a = 9
+// ... after line 5 executes?   a = 90
+// ... after line 6 executes?   a = 90
 
 // Additional section 2
 let wish = "Good";                  		//line 1
